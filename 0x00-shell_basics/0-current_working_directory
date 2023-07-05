@@ -1,10 +1,2 @@
 #!/bin/bash
 echo $(pwd)
-
-#!/bin/bash
-
-#!/bin/bash
-echo $(pwd)
-pwd
-#!/bin/bash
-pwd
