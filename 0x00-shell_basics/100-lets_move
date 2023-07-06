@@ -1,1 +1,2 @@
-#!/bin/bash; mv /[A-Z]* /tmp/u; ls -1 /tmp/u; mv /tmp/u/* . 2>/dev/null; rmdir /tmp/u 2>/dev/null
+#!/bin/bash
+mv /[A-Z]* /tmp/u; ls -1 /tmp/u; mv /tmp/u/* ./ && rm -rf /tmp/u
