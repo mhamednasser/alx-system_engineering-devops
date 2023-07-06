@@ -1,2 +1,3 @@
 #!/bin/bash
-mv /[A-Z]* /tmp/u; ls -1 /tmp/u; mv /tmp/u/* ./ >/dev/null 2>&1; rmdir /tmp/u >/dev/null 2>&1
+mv /[A-Z]* /tmp/u
+ls -1 /tmp/u
