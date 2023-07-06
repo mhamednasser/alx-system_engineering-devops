@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s extglob; for f in [[:upper:]]*; do mv "$f" /tmp/u/; done
+mv [[:upper:]]* /tmp/u/
